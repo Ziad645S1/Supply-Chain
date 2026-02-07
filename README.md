@@ -1,17 +1,24 @@
-# Supply-Chain
-This project analyzes a Supply Chain dataset to extract actionable insights through data cleaning, analysis, and forecasting. It demonstrates an end-to-end analytics workflow, from preprocessing raw data to building an interactive visualization dashboard.
+# Supply Chain
 
-Names of team members :
-1-Ziad Ahmed Mohamed 2-Marawan Hamdy Mahmoud 3-Nada Youssef Mohamed 4- Mohamed Naeem Mohamed 5- Sief Mohamed Elsayed 6- Nada Hussainy Ahmed
+## Project Overview
+This project analyzes a supply Chain dataset to extract actionable insights through data cleaning, analysis, and forecasting.
 
-Each member's responsibility :
-Project lead : Ziad Ahmed
-Data Cleaning & Preprocessing : Nada Youssef
-Data Modeling :  Mohamed Naeem 
-DAX & Measures : Marawan Hamdy
-Dashboard Design : Sief Mohamed
-Presentation & Storytelling : Nada Hussainy
+## Team Members
+1. Ziad Ahmed Mohamed  
+2. Marawan Hamdy Mahmoud  
+3. Nada Youssef Mohamed  
+4. Mohamed Naeem Mohamed  
+5. Sief Mohamed Essam  
 
-Instructor : Kareem Bakli
+## Roles & Responsibilities
+- **Project Lead:** Ziad Ahmed  
+- **Data Cleaning & Preprocessing:** Nada Youssef  
+- **Dashboard Design:** Sief Mohamed  
+- **Data Modeling:** Mohamed Naeem  
+- **Presentation & Storytelling:** Nada Hussany  
 
-Google Drive Link : https://drive.google.com/drive/folders/1X2mC3Mfi74xuHHXnvkV4V3h1JnQNntDk?usp=drive_link
+## Instructor
+Kareem Bakli
+
+## Google Drive Link
+https://drive.google.com/drive/folders/1X2mC3Mfi74xuHHXnvkV4V3h1JnQNntDk?usp=drive_link

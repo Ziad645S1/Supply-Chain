@@ -9,14 +9,13 @@ This project analyzes a supply Chain dataset to extract actionable insights thro
 3. Nada Youssef Mohamed  
 4. Mohamed Naeem Mohamed  
 5. Sief Mohamed Essam
-6. Nada Hussainy Ahmed
 
 ## Roles & Responsibilities
 - **Project Lead:** Ziad Ahmed  
 - **Data Cleaning & Preprocessing:** Nada Youssef  
 - **Dashboard Design:** Sief Mohamed  
 - **Data Modeling:** Mohamed Naeem  
-- **Presentation & Storytelling:** Nada Hussainy  
+- **Presentation & Storytelling:** Marawan Hamdy
 
 ## Instructor
 Kareem Bakli
